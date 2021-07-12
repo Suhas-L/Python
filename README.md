@@ -7,7 +7,7 @@ This application can be used to block the websites so that the user can not open
 # Objective
 The objective of Python website blocker is to block some certain websites which can distract the user during the specified amount of time.
 
-
+![intro](https://user-images.githubusercontent.com/80455876/125286340-9cd4af00-e313-11eb-8a72-8199e999bf93.jpg)
 
 In this, we will block the access to the list of some particular websites during the working hours so that the user can only access those websites during the free time only.
 
@@ -31,5 +31,7 @@ mac and Linux: /etc/host.
 We need to know the following python modules to build the python website blocker.
 
 file handling: file handling is used to do the modifications to the hosts file.
+
 time: The time module is used to control the frequency of the modifications to the hosts file.
+
 datetime: The datetime module is used to keep track of the free time and working time.
